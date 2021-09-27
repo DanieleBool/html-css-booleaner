@@ -26,7 +26,34 @@ header {
     height: 178px;
     margin-bottom: 3%;
 }
-
-.tab1{
-    text-align: left;
+main {
+    width: 100%;
 }
+  
+/* tabella */
+.wid1 {
+    width: 50%;
+}
+
+.wid2{
+    width: 25%;
+}
+  
+.tab1 {
+    margin-top: 20px;
+    text-align: left;
+    table-layout:auto;
+    width:100%;
+    height:auto;
+    border-collapse: collapse;
+}
+  
+thead {
+    color: white;
+    background-color: #20A9E5 ;
+}
+  
+.t1 {
+    background-color: #B1E5F2 ;
+}
+/* /tabella */
