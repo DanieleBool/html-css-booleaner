@@ -1,0 +1,21 @@
+header {
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat-x;
+    background-size: 400px;
+    background-color: #4EA0FF;
+
+}
+#logo {
+    height: 50px;
+}
+
+.monitor{
+    background-image: url("../img/monitor.jpg");
+    width: 312px;
+    height: 208px; 
+}
+.grafico{
+    background-image: url("../img/graph.jpg");
+    width: 312px;
+    height: 208px; 
+}
