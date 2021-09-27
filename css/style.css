@@ -3,19 +3,30 @@ header {
     background-repeat: repeat-x;
     background-size: 400px;
     background-color: #4EA0FF;
-
+    margin: 0px;
+    padding: 0px;
 }
+
 #logo {
     height: 50px;
+    padding-top: 45px;
+    padding-left: 5px;
 }
+
+
 
 .monitor{
     background-image: url("../img/monitor.jpg");
-    width: 312px;
-    height: 208px; 
+    width: 262px;
+    height: 178px;
 }
 .grafico{
     background-image: url("../img/graph.jpg");
-    width: 312px;
-    height: 208px; 
+    width: 262px;
+    height: 178px;
+    margin-bottom: 3%;
+}
+
+.tab1{
+    text-align: left;
 }
